@@ -58,5 +58,5 @@ This is a comprehensive database design project created as an academic or profes
 
 ---
 
-**Project Created:** May 2026  
+**Project Created:** October 2025  
 **Creator:** JeanW812
